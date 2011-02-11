@@ -5,4 +5,4 @@ http://www.impressivewebs.com/easy-html5-template/
 
 # Author
 
-mersy
+mersy - http://twitter.com/#!/mersy
